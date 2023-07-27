@@ -1,6 +1,6 @@
 # Summer_Project
 
-##**Watermarking Algorithm: Elevating Audio Protection to New Heights**
+**Watermarking Algorithm: Elevating Audio Protection to New Heights**
 
 Welcome to our cutting-edge Watermarking Algorithm, a groundbreaking endeavor that fortifies audio content with an invisible shield of protection. Powered by sophisticated techniques like Spread Spectrum, DCT (Discrete Cosine Transform) transform, WSOLA (Waveform Similarity Overlap and Add) Algorithm, and cyclic shift of pseudo-random sequences, this algorithm stands tall as the guardian against copyright infringement, piracy attempts, and a forensic powerhouse for audio analysis.
 
